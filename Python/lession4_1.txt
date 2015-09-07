@@ -1,0 +1,15 @@
+var myArray = new Array();
+
+...
+
+if (myArray[0] == 0) {
+
+...
+
+}
+
+if (myArray[1] == 0) {
+
+...
+
+}
